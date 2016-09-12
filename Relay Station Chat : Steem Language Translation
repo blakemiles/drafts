@@ -33,3 +33,6 @@ Questions/Commentary:
 - language competency test required?
 - may need to be built as a sidechain that allows for API pulls from Steemit.com based on user language preference
 - may require a bot to interact with the original post and translated post(s)
+- what will define the reward split for edits/amednments/notes voting of follow-on translators?
+- will user be able to define the rewards explicitly? recommended default?
+- in-line 'post content field' instructions for RelayStation? 
